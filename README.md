@@ -1,10 +1,9 @@
-# 👋 Hey there, I'm Hamza Missaoui
+# 👋 Hey, I'm Hamza Missaoui
 
-<h2 style="color: #00D4AA">Software Engineer | Full-Stack Cloud Developer | AI/ML Specialist</h2>
+<h2 style="color: #00D4AA">Software Engineer | Full-Stack Web Developer | Cloud Architect | AI Specialist</h2>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
-      <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@hamzamissaoui.dev">
@@ -19,30 +18,35 @@
      <a href="https://www.hamzamissaoui.online" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio2-000000?logo=about.me&logoColor=white" alt="Portfolio2" />
     </a>
-    <a href="https://hamza-mswi-website-2026.vercel.app" target="_blank">
+    <a href="https://hamzamissaoui.online" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio3-000000?logo=about.me&logoColor=white" alt="Portfolio3" />
     </a>
-    <!-- <a href="https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe" target="_blank">
-      <img src="https://img.shields.io/badge/Work/Projects-000000?logo=about.me&logoColor=white" alt="Project" />
-    </a> -->
-    <a href="https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
+     <a href="https://hamza-ai-website.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio4-000000?logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.calendly.com/hamza-missaoui28" target="_blank">
-      <img src="https://img.shields.io/badge/Meeting-00D4A?logo=calendly&logoColor=white&color=black" alt="Calendly" />
+    <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
+      <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
+    </a>
+     <a href="behance.net/hamzamissaoui3?isa0=1" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-0077B5?logo=behance&logoColor=white" alt="Behance" />
     </a>
 
 </div>
 
 ### 🚀 Professional Summary
 
-Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** with **4 years** of experience in crafting scalable, cloud-native ecosystems. I specialize in **Typescript**, **MERN Stack**, **React.js**, **Next.js**, **React Native**, **GraphQL**, **Apollo**, **Python** and more technologies, with a deep focus on **AWS, Azure, and GCP**. My passion lies at the intersection of robust backend architecture and intuitive, AI-driven frontend experiences.
+<!-- Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** with **4 years** of experience in crafting scalable, cloud-native ecosystems. I specialize in **Typescript**, **MERN Stack**, **React.js**, **Next.js**, **React Native**, **GraphQL**, **Apollo**, **Python** and more technologies, with a deep focus on **AWS, Azure, and GCP**. My passion lies at the intersection of robust backend architecture and intuitive, AI-driven frontend experiences. -->
+
+Full-Stack Developer with 4 years of experience designing, developing, and deploying scalable SaaS and cloud-native web and
+mobile applications. Expertise spans e-commerce, data visualization, booking platforms, and marketing technology. Implements
+high-performance solutions using concurrent processing, Redis caching, microservices, and containerization (Docker). Skilled in
+building resilient backends and responsive frontends for thousands of users, with a strong focus on DevOps practices, CI/CD
+automation, monitoring, observability, and search optimization. Proficient in TypeScript, Next.js, React, Node.js, MongoDB,
+PostgreSQL, WebSocket, and integrating AI features.
 
 ### Spoken Languages
 
-<li>
-  🌍 Arabic: Native • English: Fluent (C1) • French: Fluent (C1) • German: Basic (A1)
-</li>
+- 🌍 Arabic: Native • English: Fluent • French: Fluent • German: Basic
 
 #### 🎯 Key Impact
 
@@ -57,34 +61,18 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 ### 📊 GitHub Stats
 
 <div align="center">
-  <div style="margin-top: 10px;">
-    <!-- <a href="https://github.com/hamzaMissewi?tab=repositories&sort=stargazers"> -->
-      <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/>
-    <!-- </a>
-    <a href="https://github.com/hamzaMissewi"> -->
+  <!-- <div style="margin-top: 10px;"> -->
+      <!-- <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/hamzaMissewi?color=C79600&style=for-the-badge&labelColor=C79600&logo=star"/> -->
       <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hamzaMissewi&color=A5a5a5&style=for-the-badge&label=VIEWS&logo=eye&logoColor=white"/>
-    <!-- </a> -->
-  </div>
-  <br />
+  <!-- </div> -->
 
-<!-- ![Hamza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi) -->
-
-<!-- ![Hamza's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak) -->
-
-<div style="gap: 10px; align-items: start; justify-content: center; display:flex">
-<div style="gap: 5px; flex-direction: column; display:flex">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" />
-</div>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
-</div>
 <br />
-<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=hamzaMissewi&theme=dark&hide_border=false" width="80%" /> -->
-<!-- <div style="gap: 15px; display:flex; flex-direction: column; align-items:start"> -->
-<!-- <div style="gap: 10px; align-items: start; justify-content: center; display:flex"> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" width="70%" />
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" style="max-width: 45%; flex:1;height: 100%" /> -->
-<!-- </div> -->
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=hamzaMissewi" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamzaMissewi" /> -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzaMissewi&card=streak" />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaMissewi&theme=react-dark&bg_color=0D1117&hide_border=true&color=00D4AA&line=00D4AA&point=FFFFFF" />
 </div>
 
 ---
@@ -94,23 +82,21 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 <table align="center">
   <!-- ================= Programming & Scripting ================= -->
   <tr>
-    <td colspan="7" align="center"><b> 🖥️ Programming & Scripting</b></td>
+    <td colspan="7" align="left"><b> 🖥️ Programming & Scripting</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/javascript" width="38"/><br>JavaScript</td>
     <td><img src="https://cdn.simpleicons.org/typescript" width="38"/><br>Typescript</td>
     <td><img src="https://cdn.simpleicons.org/python" width="38"/><br>Python</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/c" width="38"/><br>C</td> -->
     <td><img src="https://cdn.simpleicons.org/c++" width="38"/><br>C++</td>
     <td><img src="https://cdn.simpleicons.org/c#" width="38"/><br>C#</td>
     <td><img src="https://cdn.simpleicons.org/go" width="38"/><br>Go</td>
     <td><img src="https://cdn.simpleicons.org/ruby" width="28"/><br>Ruby</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gnubash" width="48"/><br>Bash</td> -->
   </tr>
 
   <!-- ================= AI / LLM / ML ================= -->
   <tr>
-    <td colspan="7" align="center"><b>🤖 AI / LLM / Machine Learning</b></td>
+    <td colspan="7" align="left"><b>🤖 AI / LLM / Machine Learning</b></td>
   </tr>
 
   <tr align="center">
@@ -123,22 +109,20 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
   <!-- ================= Backend, APIs & Automation ================= -->
   <tr>
-    <td colspan="7" align="center"><b>⚙️ Backend, APIs & Automation</b></td>
+    <td colspan="7" align="left"><b>⚙️ Backend, APIs & Automation</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/flask" width="48"/><br>Flask</td>
     <td><img src="https://cdn.simpleicons.org/fastapi" width="48"/><br>FastAPI</td>
     <!-- <td><img src="https://cdn.simpleicons.org/aspnetcore" width="48"/><br>Asp.Net Core</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/gradio" width="48"/><br>Gradio</td> -->
     <td><img src="https://cdn.simpleicons.org/graphql" width="48"/><br>GraphQL</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gunicorn" width="48"/><br>Gunicorn</td> -->
     <td><img src="https://cdn.simpleicons.org/n8n" width="48"/><br>n8n</td>
     <td><img src="https://cdn.simpleicons.org/selenium" width="48"/><br>Selenium</td>
   </tr>
 
   <!-- ================= Databases ================= -->
   <tr>
-    <td colspan="7" align="center"><b>💾 Databases</b></td>
+    <td colspan="7" align="left"><b>💾 Databases</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/mongodb" width="48"/><br>Mongodb</td>
@@ -146,12 +130,11 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/postgresql" width="48"/><br>PostgreSQL</td>
     <td><img src="https://cdn.simpleicons.org/redis" width="48"/><br>Redis</td>
     <td><img src="https://cdn.simpleicons.org/supabase" width="48"/><br>Supabase</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/cockroachlabs" width="48"/><br>CockroachDB</td> -->
   </tr>
 
   <!-- ================= DevOps, Cloud & Deployment ================= -->
   <tr>
-    <td colspan="7" align="center"><b>☁️ DevOps, Cloud & Deployment</b></td>
+    <td colspan="7" align="left"><b>☁️ DevOps, Cloud & Deployment</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/docker" width="48"/><br>Docker</td>
@@ -160,21 +143,18 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/render" width="48"/><br>Render</td>
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/amplify" width="48"/><br>AWS Amplify</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/pythonanywhere" width="48"/><br>PythonAnywhere</td> -->
+    <td><img alt="image" src="https://github.com/user-attachments/assets/ae838920-fdbc-4b34-a455-bf30a83f9656" width="48" /><br>AWS Amplify</td>
   </tr>
 
   <!-- ================= Dev Tools & Package Managers ================= -->
   <tr>
-    <td colspan="7" align="center"><b>🧰 Dev Tools & Package Managers</b></td>
+    <td colspan="7" align="left"><b>🧰 Dev Tools & Package Managers</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/git" width="48"/><br>Git</td>
     <td><img src="https://cdn.simpleicons.org/github" width="48"/><br>GitHub</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gitlab" width="48"/><br>GitLab</td> -->
     <td><img src="https://cdn.simpleicons.org/bitbucket" width="48"/><br>Bitbucket</td>
     <td><img src="https://cdn.simpleicons.org/nginx" width="48"/><br>Nginx</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/gitlfs" width="48"/><br>Git LFS</td> -->
     <td><img src="https://cdn.simpleicons.org/npm" width="48"/><br>NPM</td>
     <td><img src="https://cdn.simpleicons.org/pnpm" width="48"/><br>PNPM</td>
     <td><img src="https://cdn.simpleicons.org/pypi" width="48"/><br>PyPI</td>
@@ -182,7 +162,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 
  <!-- ================= Data Science & Analytics ================= -->
   <tr>
-    <td colspan="7" align="center"><b>📊 Data Science & Analytics</b></td>
+    <td colspan="7" align="left"><b>📊 Data Science & Analytics</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/numpy" width="48"/><br>NumPy</td>
@@ -190,30 +170,26 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48"/><br>Matplotlib</td>
     <td><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br>Scikit-Learn</td>
     <td><img src="https://cdn.simpleicons.org/jupyter" width="48"/><br>Jupyter</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/kaggle" width="48"/><br>Kaggle</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/googlecolab" width="48"/><br>Colab</td> -->
+    <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
   </tr>
 
   <!-- ================= OS & Infra ================= -->
   <tr>
-    <td colspan="7" align="center"><b>🖥️ OS & Infrastructure</b></td>
+    <td colspan="7" align="left"><b>🖥️ OS & Infrastructure</b></td>
   </tr>
   <tr align="center">
-    <!-- <td><img src="https://cdn.simpleicons.org/windows_server" width="48"/><br>Windows Server</td> -->
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows Server</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows</td>
     <td><img src="https://cdn.simpleicons.org/linux" width="48"/><br>Linux</td>
     <td><img src="https://cdn.simpleicons.org/ubuntu" width="48"/><br>Ubuntu</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br></td>
     <td><img src="https://cdn.simpleicons.org/proxmox" width="48"/><br>ProxmoxVE</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br>VirtualBox</td>
-    <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/onnx" width="48"/><br>ONNX</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/uv" width="48"/><br>uv</td> -->
   </tr>
 
   <!-- ================= IDEs & Platforms ================= -->
   <tr>
-    <td colspan="7" align="center"><b>💻 IDEs & Platforms</b></td>
+    <td colspan="7" align="left"><b>💻 IDEs & Platforms</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
@@ -222,9 +198,7 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
     <td><img src="https://cdn.simpleicons.org/cursor" width="48"/><br>Cursor</td>
     <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
     <td><img src="https://cdn.simpleicons.org/intellijidea" width="48"/><br>IntelliJ</td>
-    <!-- <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/clion" width="48"/><br>CLion</td> -->
-    <!-- <td><img src="https://cdn.simpleicons.org/eclipseide" width="48"/><br>Eclipse</td> -->
+    <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td>
   </tr>
 
 </table>
@@ -247,11 +221,6 @@ Dedicated **Software Engineer, Full-Stack Web Developer & AI/Cloud Architect** w
 </div>
 
 ---
-
-<!--
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,spring,react,nextjs,nodejs,nestjs,sentry,jest,express,mongodb,mysql,tailwind,docker,redis,bullmq,prisma,firebase,supabase,fastapi,elasticsearch,postman,github,html,css,c#,cpp" height="90" alt="Tech Stack 1" />
-
---- -->
 
 ### 💼 Professional Experience
 
@@ -284,7 +253,7 @@ _London, UK (Remote) | Jan 2022 – Jun 2025_
 
 <div align="center" style="margin-bottom: 20px;">
 
-### 💫 [Website 1](https://www.hamzamissaoui.dev) | [Website 2](https://www.hamzamissaoui.online) | [More Projects](https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe)
+### 💫 [Website 1](https://www.hamzamissaoui.dev) | [Website 2](https://www.hamzamissaoui.online) | [More Projects](https://link.hamzamissaoui.dev/projects)
 
 </div>
 
@@ -294,7 +263,7 @@ _London, UK (Remote) | Jan 2022 – Jun 2025_
 | **🛒 E-commerce**      | [Crypto Trading Platform](https://hamza-crypto-trading-platform.vercel.app) • [Advanced GenAI E-comm](https://hamza-advanced-ecommerce-app-genai.vercel.app) • [Sanity E-comm](https://hamza-missaoui-ecommerce-app.vercel.app) |
 | **💬 Social & Web**    | [Slack Clone](https://hamza-slack-clone.vercel.app) • [Real-time Video Chat](https://angular-real-time-video-chat.vercel.app) • [Spotify Clone](https://hamza-spotiy-clone-app.vercel.app)                                      |
 | **📊 Analytics**       | [ML Analytics Dashboard](https://hamza-machine-learning-analytics-dashboard.vercel.app) • [OS System Info](https://hamza-os-system-infos.vercel.app) • [Weather App](https://hamza-weather-app-charts.vercel.app)               |
-| **💼 Work & Projects** | [Work & Projects](https://www.notion.so/Hamza-M-Public-2e1ebd8ecaf180b683c9e27b8a6862fe)                                                                                                                                        |
+| **💼 Work & Projects** | [Work & Projects](https://link.hamzamissaoui.dev/projects)                                                                                                                                                                      |
 
 ---
 
