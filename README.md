@@ -2,37 +2,6 @@
 
 <h2 style="color: #00D4AA">Software Engineer | Full-Stack Web Developer | Cloud Architect | AI Specialist</h2>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/hamzamissaoui" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:contact@hamzamissaoui.dev">
-      <img src="https://img.shields.io/badge/Business_Email-D14836?logo=zoho&logoColor=white" alt="Email" />
-    </a>
-     <a href="mailto:hamza.missaoui28@gmail.com">
-      <img src="https://img.shields.io/badge/Perso_Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.hamzamissaoui.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white" alt="Portfolio" />
-    </a>
-     <a href="https://www.hamzamissaoui.online" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio2-000000?logo=about.me&logoColor=white" alt="Portfolio2" />
-    </a>
-    <a href="https://hamzamissaoui.online" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio3-000000?logo=about.me&logoColor=white" alt="Portfolio3" />
-    </a>
-     <a href="https://hamza-ai-website.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio4-000000?logo=about.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://link.hamzamissaoui.dev/projects" target="_blank">
-      <img src="https://custom-icon-badges.demolab.com/badge/Work/Projects-2F3349?logo=notion&logoColor=white" />
-    </a>
-     <!-- <a href="behance.net/hamzamissaoui3?isa0=1" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-0077B5?logo=behance&logoColor=white" alt="Behance" /> -->
-    </a>
-
-</div>
-
 ### 🚀 Professional Summary
 
 Accomplished **Software Engineer, Full-Stack Web Developer & AI/Cloud Enthusiast** with **4+ years** of experience in developing, and deploying scalable SaaS and cloud-native web applications.
